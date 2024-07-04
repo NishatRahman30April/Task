@@ -1,0 +1,48 @@
+.logo img {
+    width: 100px;
+}
+
+.banner {
+    background-color: black;
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    background-image: url(images/background-banner_164357-12159.avif);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 70%, 30% 100%, 0% 70%);
+}
+
+
+
+.hire-me {
+    height: 300px;
+    background-color: gainsboro;
+    padding: 50px;
+}
+
+.new {
+    height: 60px;
+    width: 200px;
+    font-weight: 400;
+    color: black;
+    border: none;
+    background-color: orange;
+    margin-left: 20px;
+
+}
+
+.icon-style {
+    padding: 20px;
+    margin-bottom: 20;
+    height: 50px;
+    font-weight: 600;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer {
+    background-color: lightgray;
+}
